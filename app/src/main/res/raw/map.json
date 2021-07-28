@@ -1,0 +1,691 @@
+[
+  {
+    "countryName": "Australia",
+    "countryLocation": {
+      "countryLatitude": -25.274398,
+      "countryLongitude": 133.775136
+    },
+    "cities": [
+      {
+        "cityName": "Whitehaven Beach",
+        "cityLocation": {
+          "cityLatitude": -20.2824324,
+          "cityLongitude": 149.038854
+        }
+      },
+      {
+        "cityName": "The 12 Apostles",
+        "cityLocation": {
+          "cityLatitude": -38.6621015,
+          "cityLongitude": 143.1050918
+        }
+      },
+      {
+        "cityName": "Cape Byron Lighthouse",
+        "cityLocation": {
+          "cityLatitude": -28.6399014,
+          "cityLongitude": 153.6270212
+        }
+      },
+      {
+        "cityName": "McLaren Vale",
+        "cityLocation": {
+          "cityLatitude": -35.2052372,
+          "cityLongitude": 138.5175407
+        }
+      },
+      {
+        "cityName": "The Pinnacles",
+        "cityLocation": {
+          "cityLatitude": -30.647203,
+          "cityLongitude": 115.2023563
+        }
+      },
+      {
+        "cityName": "Uluru at Sunrise, Ayer’s Rock",
+        "cityLocation": {
+          "cityLatitude": -25.3519054,
+          "cityLongitude": 131.0168769
+        }
+      },
+      {
+        "cityName": "Sydney Harbour and Circular Quay",
+        "cityLocation": {
+          "cityLatitude": -33.8617549,
+          "cityLongitude": 151.2101054
+        }
+      },
+      {
+        "cityName": "Mindil Beach, Darwin",
+        "cityLocation": {
+          "cityLatitude": -12.44414,
+          "cityLongitude": 130.5520019
+        }
+      }
+    ]
+  },
+  {
+    "countryName": "Argentina",
+    "countryLocation": {
+      "countryLatitude": -38.416097,
+      "countryLongitude": -63.616672
+    },
+    "cities": [
+      {
+        "cityName": "Iguazú Falls",
+        "cityLocation": {
+          "cityLatitude": -25.6952541,
+          "cityLongitude": -54.4716851
+        }
+      },
+      {
+        "cityName": "Perito Moreno Glacier",
+        "cityLocation": {
+          "cityLatitude": -50.5025092,
+          "cityLongitude": -73.1997342
+        }
+      },
+      {
+        "cityName": "Recoleta, La Boca",
+        "cityLocation": {
+          "cityLatitude": -34.6375704,
+          "cityLongitude": -58.3704502
+        }
+      },
+      {
+        "cityName": "Tierra del Fuego National Park",
+        "cityLocation": {
+          "cityLatitude": -54.8433063,
+          "cityLongitude": -68.5562752
+        }
+      },
+      {
+        "cityName": "Ushuaia: The End of the World",
+        "cityLocation": {
+          "cityLatitude": -54.8311921,
+          "cityLongitude": -68.5078213
+        }
+      }
+    ]
+  },
+  {
+    "countryName": "Brazil",
+    "countryLocation": {
+      "countryLatitude": -14.235004,
+      "countryLongitude": -51.92528
+    },
+    "cities": [
+      {
+        "cityName": "Carnival in Rio de Janeiro",
+        "cityLocation": {
+          "cityLatitude": -22.9492954,
+          "cityLongitude": -43.3719429
+        }
+      },
+      {
+        "cityName": "Admire Iguazu Falls",
+        "cityLocation": {
+          "cityLatitude": -25.6892133,
+          "cityLongitude": -54.450061
+        }
+      },
+      {
+        "cityName": "Rio de Janeiro",
+        "cityLocation": {
+          "cityLatitude": -22.9137531,
+          "cityLongitude": -43.5860654
+        }
+      },
+      {
+        "cityName": "São Paulo",
+        "cityLocation": {
+          "cityLatitude": -23.6815315,
+          "cityLongitude": -46.8754814
+        }
+      },
+      {
+        "cityName": "Copacabana Beach",
+        "cityLocation": {
+          "cityLatitude": -22.975629,
+          "cityLongitude": -43.1907708
+        }
+      },
+      {
+        "cityName": "Christ the Redeemer",
+        "cityLocation": {
+          "cityLatitude": -22.951911,
+          "cityLongitude": -43.2126759
+        }
+      },
+      {
+        "cityName": "Mount Roraima",
+        "cityLocation": {
+          "cityLatitude": 5.1315941,
+          "cityLongitude": -60.7672152
+        }
+      }
+    ]
+  },
+  {
+    "countryName": "China",
+    "countryLocation": {
+      "countryLatitude": 35.86166,
+      "countryLongitude": 104.195397
+    },
+    "cities": [
+      {
+        "cityName": "Yangshuo, Guilin",
+        "cityLocation": {
+          "cityLatitude": 24.8459283,
+          "cityLongitude": 110.314913
+        }
+      },
+      {
+        "cityName": " Yellow Mountains",
+        "cityLocation": {
+          "cityLatitude": 30.1378208,
+          "cityLongitude": 118.1564462
+        }
+      },
+      {
+        "cityName": "Zhangjiajie",
+        "cityLocation": {
+          "cityLatitude": 29.1553569,
+          "cityLongitude": 110.4524151
+        }
+      },
+      {
+        "cityName": "Lijiang",
+        "cityLocation": {
+          "cityLatitude": 26.8700055,
+          "cityLongitude": 100.1568583
+        }
+      },
+      {
+        "cityName": "Shangri-La",
+        "cityLocation": {
+          "cityLatitude": 27.8562298,
+          "cityLongitude": 99.2873651
+        }
+      },
+      {
+        "cityName": "Kanas Lake",
+        "cityLocation": {
+          "cityLatitude": 48.7509073,
+          "cityLongitude": 86.9672118
+        }
+      },
+      {
+        "cityName": "Ejina Populus",
+        "cityLocation": {
+          "cityLatitude": 42.3938219,
+          "cityLongitude": 101.5801908
+        }
+      },
+      {
+        "cityName": "West Lake",
+        "cityLocation": {
+          "cityLatitude": 30.2430633,
+          "cityLongitude": 120.1346536
+        }
+      }
+    ]
+  },
+  {
+    "countryName": "Canada",
+    "countryLocation": {
+      "countryLatitude": 56.130366,
+      "countryLongitude": -106.346771
+    },
+    "cities": [
+      {
+        "cityName": "Moraine Lake, Alberta",
+        "cityLocation": {
+          "cityLatitude": 51.3215578,
+          "cityLongitude": -116.1893192
+        }
+      },
+      {
+        "cityName": "Mount Robson",
+        "cityLocation": {
+          "cityLatitude": 53.0338711,
+          "cityLongitude": -119.2403418
+        }
+      },
+      {
+        "cityName": "Aurora Village",
+        "cityLocation": {
+          "cityLatitude": 62.5330597,
+          "cityLongitude": -114.2040702
+        }
+      },
+      {
+        "cityName": "Niagara Falls",
+        "cityLocation": {
+          "cityLatitude": 43.0995628,
+          "cityLongitude": -79.0437609
+        }
+      },
+      {
+        "cityName": "CN Tower",
+        "cityLocation": {
+          "cityLatitude": 43.6425701,
+          "cityLongitude": -79.3892455
+        }
+      }
+    ]
+  },
+  {
+    "countryName": "Egypt",
+    "countryLocation": {
+      "countryLatitude": 26.820553,
+      "countryLongitude": 30.802498
+    },
+    "cities": [
+      {
+        "cityName": "Castle Zaman Reservation",
+        "cityLocation": {
+          "cityLatitude": 29.2204465,
+          "cityLongitude": 34.7376794
+        }
+      },
+      {
+        "cityName": "Marriott Mena House",
+        "cityLocation": {
+          "cityLatitude": 29.9853686,
+          "cityLongitude": 31.1308833
+        }
+      },
+      {
+        "cityName": "Dahab Promenade",
+        "cityLocation": {
+          "cityLatitude": 28.5559531,
+          "cityLongitude": 33.9738593
+        }
+      },
+      {
+        "cityName": "White Desert",
+        "cityLocation": {
+          "cityLatitude": 28.3865347,
+          "cityLongitude": 28.9063439
+        }
+      },
+      {
+        "cityName": "Stanley Bridge",
+        "cityLocation": {
+          "cityLatitude": 31.2351896,
+          "cityLongitude": 29.9466527
+        }
+      },
+      {
+        "cityName": "Mahmya",
+        "cityLocation": {
+          "cityLatitude": 27.1937803,
+          "cityLongitude": 33.8867303
+        }
+      }
+    ]
+  },
+  {
+    "countryName": "France",
+    "countryLocation": {
+      "countryLatitude": 46.227638,
+      "countryLongitude": 2.213749
+    },
+    "cities": [
+      {
+        "cityName": "Dordogne",
+        "cityLocation": {
+          "cityLatitude": 45.142351,
+          "cityLongitude": 0.1427788
+        }
+      },
+      {
+        "cityName": "Castle Hill",
+        "cityLocation": {
+          "cityLatitude": 43.6947089,
+          "cityLongitude": 7.278378
+        }
+      },
+      {
+        "cityName": "Parc national des Calanques",
+        "cityLocation": {
+          "cityLatitude": 43.2181941,
+          "cityLongitude": 5.4291409
+        }
+      },
+      {
+        "cityName": "Dune of Pilat",
+        "cityLocation": {
+          "cityLatitude": 44.589121,
+          "cityLongitude": -1.2235701
+        }
+      },
+      {
+        "cityName": "Mont Saint-Michel",
+        "cityLocation": {
+          "cityLatitude": 48.6363966,
+          "cityLongitude": -1.5462265
+        }
+      },
+      {
+        "cityName": "Eiffel Tower",
+        "cityLocation": {
+          "cityLatitude": 48.8539241,
+          "cityLongitude": 2.2913515
+        }
+      },
+      {
+        "cityName": "Aiguille du Midi",
+        "cityLocation": {
+          "cityLatitude": 45.8793252,
+          "cityLongitude": 6.8786695
+        }
+      }
+    ]
+  },
+  {
+    "countryName": "Germany",
+    "countryLocation": {
+      "countryLatitude": 51.165691,
+      "countryLongitude": 10.451526
+    },
+    "cities": [
+      {
+        "cityName": "Berlin",
+        "cityLocation": {
+          "cityLatitude": 52.5069704,
+          "cityLongitude": 13.2846503
+        }
+      },
+      {
+        "cityName": "Munich",
+        "cityLocation": {
+          "cityLatitude": 48.155004,
+          "cityLongitude": 11.4717963
+        }
+      },
+      {
+        "cityName": "Füssen",
+        "cityLocation": {
+          "cityLatitude": 47.5857813,
+          "cityLongitude": 10.6199996
+        }
+      },
+      {
+        "cityName": "Rothenburg ob der Tauber",
+        "cityLocation": {
+          "cityLatitude": 49.365865,
+          "cityLongitude": 10.1274898
+        }
+      },
+      {
+        "cityName": "Nürburgring",
+        "cityLocation": {
+          "cityLatitude": 50.3341083,
+          "cityLongitude": 6.9404738
+        }
+      }
+    ]
+  },
+  {
+    "countryName": "Japan",
+    "countryLocation": {
+      "countryLatitude": 36.204824,
+      "countryLongitude": 138.252924
+    },
+    "cities": [
+      {
+        "cityName": "Mount Fuji",
+        "cityLocation": {
+          "cityLatitude": 35.3606422,
+          "cityLongitude": 138.7186086
+        }
+      },
+      {
+        "cityName": "Imperial Palace",
+        "cityLocation": {
+          "cityLatitude": 35.6796437,
+          "cityLongitude": 139.7508125
+        }
+      },
+      {
+        "cityName": "Hiroshima Peace Memorial Park",
+        "cityLocation": {
+          "cityLatitude": 34.3920489,
+          "cityLongitude": 132.4505432
+        }
+      },
+      {
+        "cityName": "Osaka Castle",
+        "cityLocation": {
+          "cityLatitude": 34.6873377,
+          "cityLongitude": 135.5237668
+        }
+      },
+      {
+        "cityName": "Atsuta Jingu",
+        "cityLocation": {
+          "cityLatitude": 35.1255619,
+          "cityLongitude": 136.9067743
+        }
+      },
+      {
+        "cityName": "Sapporo, Hokkaido",
+        "cityLocation": {
+          "cityLatitude": 42.9855019,
+          "cityLongitude": 141.10789
+        }
+      }
+    ]
+  },
+  {
+    "countryName": "New Zealand",
+    "countryLocation": {
+      "countryLatitude": -40.900557,
+      "countryLongitude": 174.885971
+    },
+    "cities": [
+      {
+        "cityName": "Milford Sound / Piopiotahi",
+        "cityLocation": {
+          "cityLatitude": -44.6231605,
+          "cityLongitude": 167.784297
+        }
+      },
+      {
+        "cityName": "Bay of Islands",
+        "cityLocation": {
+          "cityLatitude": -35.2394009,
+          "cityLongitude": 174.0766589
+        }
+      },
+      {
+        "cityName": "Queenstown",
+        "cityLocation": {
+          "cityLatitude": -44.9967799,
+          "cityLongitude": 168.6647796
+        }
+      },
+      {
+        "cityName": "Lake Taupo",
+        "cityLocation": {
+          "cityLatitude": -38.8064949,
+          "cityLongitude": 175.7685509
+        }
+      },
+      {
+        "cityName": "Rotorua",
+        "cityLocation": {
+          "cityLatitude": -38.1336263,
+          "cityLongitude": 176.223926
+        }
+      },
+      {
+        "cityName": "Fox Glacier",
+        "cityLocation": {
+          "cityLatitude": -43.5227193,
+          "cityLongitude": 170.0972843
+        }
+      },
+      {
+        "cityName": "Aoraki / Mount Cook",
+        "cityLocation": {
+          "cityLatitude": -43.7342459,
+          "cityLongitude": 170.0873994
+        }
+      },
+      {
+        "cityName": "Kaikōura",
+        "cityLocation": {
+          "cityLatitude": -42.3310627,
+          "cityLongitude": 173.5144292
+        }
+      },
+      {
+        "cityName": "Otago Polytechnic",
+        "cityLocation": {
+          "cityLatitude": -45.8682596,
+          "cityLongitude": 170.5176235
+        }
+      },
+      {
+        "cityName": "Akaroa",
+        "cityLocation": {
+          "cityLatitude": -43.8406502,
+          "cityLongitude": 172.9575892
+        }
+      },
+      {
+        "cityName": "Wanaka Tree",
+        "cityLocation": {
+          "cityLatitude": -44.7053046,
+          "cityLongitude": 169.1252162
+        }
+      },
+      {
+        "cityName": "Egmont National Park",
+        "cityLocation": {
+          "cityLatitude": -39.358651,
+          "cityLongitude": 173.8570949
+        }
+      },
+      {
+        "cityName": "Stirling Point",
+        "cityLocation": {
+          "cityLatitude": -46.6117832,
+          "cityLongitude": 168.348585
+        }
+      }
+    ]
+  },
+  {
+    "countryName": "South Africa",
+    "countryLocation": {
+      "countryLatitude": -30.559482,
+      "countryLongitude": 22.937506
+    },
+    "cities": [
+      {
+        "cityName": "Kruger National Park",
+        "cityLocation": {
+          "cityLatitude": -23.9883799,
+          "cityLongitude": 31.5525515
+        }
+      },
+      {
+        "cityName": "Table Mountain",
+        "cityLocation": {
+          "cityLatitude": -29.5836621,
+          "cityLongitude": 30.5386931
+        }
+      },
+      {
+        "cityName": "Drakensberg",
+        "cityLocation": {
+          "cityLatitude": -29.4666475,
+          "cityLongitude": 29.2579122
+        }
+      },
+      {
+        "cityName": "Durban Beach",
+        "cityLocation": {
+          "cityLatitude": -29.8261335,
+          "cityLongitude": 31.0298097
+        }
+      },
+      {
+        "cityName": "Knysna",
+        "cityLocation": {
+          "cityLatitude": -34.039065,
+          "cityLongitude": 23.0073972
+        }
+      },
+      {
+        "cityName": "Cape Winelands",
+        "cityLocation": {
+          "cityLatitude": -33.1484701,
+          "cityLongitude": 19.2989228
+        }
+      }
+    ]
+  },
+  {
+    "countryName": "United States",
+    "countryLocation": {
+      "countryLatitude": 37.09024,
+      "countryLongitude": -95.712891
+    },
+    "cities": [
+      {
+        "cityName": "Grand Canyon",
+        "cityLocation": {
+          "cityLatitude": 36.0997796,
+          "cityLongitude": -112.1212394
+        }
+      },
+      {
+        "cityName": "Statue of Liberty",
+        "cityLocation": {
+          "cityLatitude": 40.6892534,
+          "cityLongitude": -74.3246518
+        }
+      },
+      {
+        "cityName": "The White House",
+        "cityLocation": {
+          "cityLatitude": 38.8976805,
+          "cityLongitude": -77.0387185
+        }
+      },
+      {
+        "cityName": "Walt Disney World Resort",
+        "cityLocation": {
+          "cityLatitude": 28.3843437,
+          "cityLongitude": -81.56004
+        }
+      },
+      {
+        "cityName": "Waikiki",
+        "cityLocation": {
+          "cityLatitude": 21.2801409,
+          "cityLongitude": -157.8370756
+        }
+      },
+      {
+        "cityName": "Times Square",
+        "cityLocation": {
+          "cityLatitude": 40.7589626,
+          "cityLongitude": -73.9893574
+        }
+      },
+      {
+        "cityName": "The Gateway Arch",
+        "cityLocation": {
+          "cityLatitude": 38.6246952,
+          "cityLongitude": -90.186965
+        }
+      }
+    ]
+  }
+]

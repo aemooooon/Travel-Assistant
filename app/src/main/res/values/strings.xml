@@ -1,0 +1,89 @@
+<!--
+Project Name: Travel Assistant
+Project Lecturer: Grayson Orr
+Student Name: Hua Wang
+File Name: strings.xml
+Description: String variable collection
+-->
+<resources>
+
+    <!-- Main activity string variable   -->
+    <string name="app_name">Travel Assistant</string>
+    <string name="kia_ora">Kia ora</string>
+    <string name="which_country_do_you_want_to_travel">Which country do you want to travel?</string>
+
+    <!--  Country list  -->
+    <string-array name="countries">
+        <item>Select Country</item>
+        <item>Australia</item>
+        <item>Argentina</item>
+        <item>Brazil</item>
+        <item>China</item>
+        <item>Canada</item>
+        <item>Egypt</item>
+        <item>France</item>
+        <item>Germany</item>
+        <item>Japan</item>
+        <item>New Zealand</item>
+        <item>South Africa</item>
+        <item>United States</item>
+    </string-array>
+
+    <!--  Language list  -->
+    <string-array name="languages">
+        <item>English</item>
+        <item>Afrikaans</item>
+        <item>Arabic</item>
+        <item>Chinese</item>
+        <item>French</item>
+        <item>German</item>
+        <item>Japanese</item>
+        <item>Maori</item>
+        <item>Portuguese</item>
+        <item>Spanish</item>
+        <item>Zulu</item>
+    </string-array>
+
+    <!--  Menu name  -->
+    <string name="translator">Translator</string>
+    <string name="text_to_speech">Text to Speech</string>
+    <string name="phrases">Phrases</string>
+    <string name="quiz">Quiz</string>
+    <string name="map">Top rated view map</string>
+
+    <!-- Permissions -->
+
+    <!--  action bar  -->
+    <string name="change_country">Change country</string>
+    <string name="change_theme">Change theme</string>
+    <string name="switch_country">Switch country</string>
+
+    <!--  text to speech  -->
+    <string name="enter_text_to_speak">Enter text to speak…</string>
+    <string name="speak">Speak</string>
+    <string name="clear">Clear</string>
+
+    <!--  phrases  -->
+    <string name="connection_error">Connection Error :(</string>
+    <string name="loading">Loading…</string>
+
+    <!--  quiz  -->
+    <string name="start">Start</string>
+    <string name="_0">0</string>
+    <string name="finish">FINISH</string>
+    <string name="next">NEXT</string>
+    <string name="submit">SUBMIT</string>
+    <string name="timeout">Time out</string>
+
+    <!--  Exit app dialog fragment  -->
+    <string name="are_you_sure_to_exit_app">Are you sure to exit app?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <!--  Translator  -->
+    <string name="enter_text">Enter text</string>
+    <string name="translate">Translate</string>
+    <string name="translated_by_yandex_translate">Translated by Yandex.Translate</string>
+    <string name="dark">dark</string>
+
+</resources>

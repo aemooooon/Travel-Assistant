@@ -1,0 +1,29 @@
+<!--
+Project Name: Travel Assistant
+Project Lecturer: Grayson Orr
+Student Name: Hua Wang
+File Name: dimens.xml
+Description: layout size variable collection
+-->
+<resources>
+    <!--
+    Because the window insets on round devices are larger than 15dp, this padding only applies
+    to square screens.
+    -->
+
+    <!--
+    This padding applies to both square and round screens. The total padding between the buttons
+    and the window insets is box_inset_layout_padding (above variable) on square screens and
+    inner_frame_layout_padding (below variable) on round screens.
+    -->
+    <dimen name="margin_16">16dp</dimen>
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="margin_32">32dp</dimen>
+    <dimen name="text_size_24">24sp</dimen>
+    <dimen name="margin_4">4dp</dimen>
+    <dimen name="padding_5">5dp</dimen>
+    <dimen name="padding_10">10dp</dimen>
+    <dimen name="padding_15">15dp</dimen>
+    <dimen name="radius_8">8dp</dimen>
+    <dimen name="text_size_18">18sp</dimen>
+</resources>

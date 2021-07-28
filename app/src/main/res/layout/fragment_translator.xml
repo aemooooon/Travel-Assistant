@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    tools:context=".ui.fragment.TranslatorFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_margin="@dimen/margin_16">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:padding="@dimen/padding_10">
+
+            <Spinner
+                android:id="@+id/from_lang"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/margin_16"
+                tools:layout_editor_absoluteX="16dp"
+                tools:layout_editor_absoluteY="158dp" />
+
+            <Spinner
+                android:id="@+id/to_lang"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/margin_16"
+                tools:layout_editor_absoluteX="112dp"
+                tools:layout_editor_absoluteY="148dp" />
+
+        </LinearLayout>
+
+        <EditText
+            android:id="@+id/text_input"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/edit_text_bg"
+            android:gravity="start"
+            android:hint="@string/enter_text"
+            android:minHeight="140dp"
+            android:padding="@dimen/padding_10"
+            android:textColor="@color/textColor"
+            android:textColorHint="@color/textColor"
+            tools:ignore="Autofill,TextFields" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/margin_10"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/btn_translate"
+                style="@style/Base.Widget.AppCompat.Button.Colored"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin_4"
+                android:text="@string/translate" />
+
+            <Button
+                android:id="@+id/btn_reset"
+                style="@style/Base.Widget.AppCompat.Button.Colored"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin_4"
+                android:text="@string/clear" />
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/text_output"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/margin_10"
+            android:background="@drawable/edit_text_bg"
+            android:gravity="start"
+            android:minHeight="140dp"
+            android:padding="@dimen/padding_10"
+            android:textColor="@color/textColor"
+            android:textColorHint="@color/textColor"
+            tools:ignore="Autofill,LabelFor,TextFields" />
+
+        <TextView
+            android:id="@+id/tv_copyright"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/margin_16"
+            android:layout_marginBottom="@dimen/margin_16"
+            android:gravity="center"
+            android:text="@string/translated_by_yandex_translate" />
+
+    </LinearLayout>
+
+</ScrollView>
