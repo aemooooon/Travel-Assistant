@@ -16,7 +16,7 @@ It is a project of Mobile Application Development, in the 2021 semester 1. This 
 
 <div>
     <img width="45%" src="https://aemon.wang/sts/mobile/mock_01.png" />
-    <img width="40%" src="https://aemon.wang/sts/mobile/mock_01.jpg" />
+    <img width="40%" src="https://aemon.wang/sts/mobile/mock_01.jpg?v=2" />
     <img width="45%" src="https://aemon.wang/sts/mobile/mock_02.png" />
     <img width="40%" src="https://aemon.wang/sts/mobile/mock_02.jpg" />
     <img width="45%" src="https://aemon.wang/sts/mobile/mock_03.png" />
