@@ -8,7 +8,7 @@
 
 
 # Introduction
-It is a project of Mobile Application Development, in 2021 semester 1. This is a Android based app which called Travel Assistant, using Kotlin language with Room Database. To help people who want to travel a country but does not familiar. Project by student Hua Wang and lecturer Grayson.
+It is a project of Mobile Application Development, in the 2021 semester 1. This is an Android-based app called Travel Assistant, using the Kotlin language with Room Database. To help people who want to travel a country but does not familiar. Project by student Hua Wang and lecturer Grayson.
 
 # Wireframes
 
@@ -38,12 +38,12 @@ Download from <a href="">Google Play Store</a>  ~~Requirement removed~~
 * Espresso UI testing
 
 # How to use
-1. Once you opened app, there is a dropdown list will show up after the screen splash animation. The app ask you which country do you want to travel, just pick one.
+1. Once you open the app, a drop-down list will show up after the screen splash animation. The app ask you which country do you want to travel, just pick one.
 <p>
 <img width="30%" src="https://aemon.wang/sts/mobile/mock_02.jpg" />
 </p>
 
-2. For example, if we chose New Zealand, we will see a sets of top rated views in this country. Some of places marked, some of them clustered. Touch one of them we can see the name of view and Longitude, Latitude. We can also tap the compass button to going to current location.
+2. For example, if we choose New Zealand, we will see a set of top-rated views in this country. Some of the places are marked, some of them clustered. Touch one of them, and we can see the name of the view, Longitude, and Latitude. We can also tap the compass button to go to the current location.
 <p>
 <img width="24%" src="https://aemon.wang/sts/mobile/10.jpg" />
 <img width="24%" src="https://aemon.wang/sts/mobile/09.jpg" />
@@ -51,23 +51,23 @@ Download from <a href="">Google Play Store</a>  ~~Requirement removed~~
 <img width="24%" src="https://aemon.wang/sts/mobile/07.jpg" />
 </p>
 
-3. Switch bottom navigation to second one which is Translator, You could choose language from and to translate. Enter the text you want to translate.
+3. Switch the bottom navigation to the second one, which is Translator. You could choose the language from and to translate. Enter the text you want to translate.
 <p>
 <img width="30%" src="https://aemon.wang/sts/mobile/05.jpg" />
 </p>
 
-4. Switch bottom navigation to third one which is Text Speech, You could type any text you want the app to speak.
+4. Switch the bottom navigation to the third one, which is Text Speech. You could type any text you want the app to speak.
 <p>
 <img width="30%" src="https://aemon.wang/sts/mobile/04.jpg" />
 </p>
 
-5. Switch bottom navigation to fourth one which is Phrases, that is common used phrases in that country you can learn it from here. The app also support 2 kind of color schema just touch the right top of moon button.
+5. Switch the bottom navigation to the fourth one, which is Phrases, that is, commonly used phrases in that country. You can learn them from here. The app also supports 2 kinds of colour schema, just touch the right top of the moon button
 <p>
 <img width="30%" src="https://aemon.wang/sts/mobile/01.jpg" />
 <img width="30%" src="https://aemon.wang/sts/mobile/02.jpg" />
 </p>
 
-6. Switch bottom navigation to last one which is Quiz of this country. You can take a new quiz to learn, once you finished you can see your result list there. If you want to switch to other country, just touch the right top of the location icon, will choose country again.
+6. Switch the bottom navigation to the last one, which is the Quiz of this country. You can take a new quiz to learn. Once you finish, you can see your result list there. If you want to switch to another country, just touch the top right of the location icon, and you will choose the country again.
 <p>
 <img width="30%" src="https://aemon.wang/sts/mobile/03.jpg" />
 <img width="30%" src="https://aemon.wang/sts/mobile/06.jpg" />
